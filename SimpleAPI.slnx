@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../Pet projects/Simple API/API/API.csproj" />
+  <Project Path="../../Pet projects/Simple API/DatabaseService/DatabaseService.csproj" />
+  <Project Path="../../Pet projects/Simple API/Model/Model.csproj" />
+  <Project Path="../../Pet projects/Simple API/Tests/Tests.csproj" />
+</Solution>
